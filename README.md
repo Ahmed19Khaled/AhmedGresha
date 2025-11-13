@@ -49,7 +49,12 @@
 
 ---
 
-## 🌟 Featured Projects #### 🧩 [EDRAK Platform](https://github.com/AhmedGresha/EDRAK) > Full educational platform with **ASP.NET Core + MVC + API** using Clean Architecture & JWT Authentication #### 🧮 [Trak ERP System](https://github.com/AhmedGresha/TRAK) > ERP web app managing company resources, modular backend & SQL Server #### 🌐 [Portfolio Website](https://github.com/AhmedGresha/Portfolio) > Personal portfolio using React frontend consuming ASP.NET Core API
+## 🌟 Featured Projects 
+#### 
+🧩 [EDRAK Platform](https://github.com/AhmedGresha/EDRAK) > Full educational platform with **ASP.NET Core + MVC + API** using Clean Architecture & JAuthentication    #### 
+🧮 [Trak ERP System](https://github.com/AhmedGresha/TRAK) > ERP web app managing company resources, modular backend & SQL Server
+#### 
+🌐 [Portfolio Website](https://github.com/AhmedGresha/Portfolio) > Personal portfolio using React frontend consuming ASP.NET Core API
 
 ---
 
