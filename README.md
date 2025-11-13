@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gresha</h1>
-<h3 align="center">🚀 Full Stack ASP.NET Developer | Backend API Specialist | Database Designer</h3>
+<h3 align="center">
+  <a href="https://github.com/AhmedGresha">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F0FF&background=0F0F0F00&width=600&lines=Full+Stack+.NET+Developer;API+Specialist;Frontend+&+Backend;Team+Player;Mentor" alt="Typing SVG"/>
+  </a>
+</h3>
 
 ---
 
 ### 👨‍💻 About Me
-💡 Passionate **Full Stack Developer** with hands-on experience in building modern web applications using **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**, alongside solid frontend skills using **HTML, CSS, Bootstrap, JavaScript, and React**.  
+💡 I am a passionate **Full Stack ASP.NET Developer** building modern web apps using **ASP.NET Core**, **Entity Framework**, **SQL**, and **React/JS**.  
 
-- 🔭 Currently working on: **EDRAK Educational Platform**
-- 🌱 Learning: **Microservices, Docker, Azure DevOps**
-- 💬 Ask me about: **ASP.NET Core, APIs, Clean Architecture, SQL**
-- ⚡ Fun fact: I love solving coding challenges & mentoring junior devs
+- 🔭 Currently working on **EDRAK Platform**
+- 🌱 Learning **Microservices, Docker, Azure DevOps**
+- 💬 Ask me about **API Design, Clean Architecture, Full Stack Development**
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,js,ts,react,git,github,azure,visualstudio,vscode,postgres,mysql,postman,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,js,ts,react,git,github,azure,vscode,visualstudio,postgres,mysql,docker,postman,figma" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
+### 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-gresha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -30,9 +33,6 @@
   </a>
   <a href="https://github.com/AhmedGresha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/ahmedgresha" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
@@ -46,39 +46,17 @@
 
 ---
 
-### 🏗️ Featured Projects
-
+### 🌟 Featured Projects
 #### 🧩 [EDRAK Platform](https://github.com/AhmedGresha/EDRAK)
-> Full educational platform built with **ASP.NET Core 8 + MVC + Web API** using **Clean Architecture** and **JWT Authentication**.  
-
-**Tech Used:** ASP.NET Core, EF Core, Bootstrap, JS, SQL Server, GitHub
+> Full educational platform with **ASP.NET Core + MVC + API** using Clean Architecture & JWT Authentication
 
 #### 🧮 [Trak ERP System](https://github.com/AhmedGresha/TRAK)
-> ERP-style web app managing internal company resources.  
+> ERP web app managing company resources, modular backend & SQL Server
 
-**Tech Used:** ASP.NET Core, EF Core, Repository Pattern, SQL Server
-
-#### 🌐 [Portfolio Website (React + API)](https://github.com/AhmedGresha/Portfolio)
-> Personal portfolio consuming a backend ASP.NET Core API.
-
-**Frontend:** React.js, Tailwind CSS  
-**Backend:** ASP.NET Core Web API
-
----
-
-### 🏆 Achievements
-- Built scalable RESTful APIs with ASP.NET Core  
-- Applied Clean Architecture & Repository Pattern in multi-module projects  
-- Led a small development team using GitHub collaboration  
-- Implemented CI/CD pipelines for testing & deployment  
-- Mentored junior developers on API design & EF Core best practices  
+#### 🌐 [Portfolio Website](https://github.com/AhmedGresha/Portfolio)
+> Personal portfolio using React frontend consuming ASP.NET Core API
 
 ---
 
 ### 💡 Quote
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
----
-
-### ❤️ Support
-If you find my projects useful or inspiring, please ⭐ my repositories!
