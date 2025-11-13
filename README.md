@@ -39,13 +39,6 @@
   </a>
 </div>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedGresha&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGresha&theme=tokyonight" height="180em"/>
-</p>
 
 ---
 
