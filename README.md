@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gresha</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F0FF&background=0F0F0F00&width=600&lines=Full+Stack+.NET+Developer;API+Specialist;Frontend+&+Backend;Team+Player;Mentor" alt="Typing SVG"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F0FF&background=0F0F0F00&width=800&lines=Full+Stack+.NET+Developer;API+Specialist;Frontend+&+Backend;Team+Player;Mentor" alt="Typing SVG"/>
+</div>
+
 
 
 ---
@@ -22,6 +23,26 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,js,ts,react,git,github,azure,vscode,visualstudio,postgres,mysql,docker,postman,figma" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedGresha&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGresha&theme=tokyonight" height="180em"/>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-gresha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:engahmedgresha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AhmedGresha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ### 🌍 Connect With Me
 <p align="center">
